@@ -1,3 +1,5 @@
-## Hi there 👋
+## Welcome to my profile! 👋
 
-My name is Nolan, and I'm especially passionate in the intersection between technology and the arts (particularly music). So far, I've been working on web projects for different organizations or competitions I'm a part of.
+Hello! I'm a senior at James E. Taylor High School with a strong passion for exploring how technology, especially AI, and the arts can intersect to solve societal problems. As an active and engaged STEM student, I'm constantly seeking opportunities to innovate and apply my tech skills to create positive change, whether that's through artificial intelligence, software development, or web design. If our goals align, I'd love to connect!
+
+If our interests align, feel free to contact me: nolanyee99@gmail.com
